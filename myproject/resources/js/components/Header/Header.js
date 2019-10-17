@@ -26,7 +26,7 @@ class Header extends React.Component {
                     <li><Link to="shop.html">Shop</Link></li>
                     <li><Link to="/Product">Product</Link></li>
                     <li><Link to="cart.">Cart</Link></li>
-                    <li><Link to="checkout.html">Checkout</Link></li>
+                    <li><Link to="/Login">Login</Link></li>
                 </ul>
             </nav>
         );
